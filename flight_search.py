@@ -57,7 +57,7 @@ class FlightSearch:
     def get_flights_data(self, params):
         results = []
         today = dt.datetime.now()
-        day_counter = 1
+        day_counter = 30
         headers = {
             "Authorization": "Bearer " + self.token
         }
