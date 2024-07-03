@@ -22,8 +22,8 @@ the current lowest price is found.
 pip install -r requirements.txt
 ```
 
-Replace `your_amadeus_api_key`, `your_amadeus_api_secret`, `your_twilio_account_sid`, `your_twilio_auth_token`, `your_twilio_phone_number`,
-and `your_sheety_auth_token` with your actual credentials.
+Replace `API_KEY`, `API_SECRET`, `ACCOUNT_SID`, `SMS_KEY`, `NUMBER`,
+`SHEETY_AUTH_TOKEN` and `RECEIVER_NUMBER` with your actual credentials.
 
 ### Usage
 
