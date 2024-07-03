@@ -15,10 +15,6 @@ the current lowest price is found.
 
 1. Clone the repository:
 
-```
-git clone https://github.com/yourusername/flight-deals-finder.git 
-cd flight-deals-finder
-```
 
 2. Install dependencies:
 
